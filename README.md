@@ -18,5 +18,7 @@ usaco-survival-kit/
 ├── bronze/
 ├── silver/
 ├── gold/
-├── mistakes/
+├── platinum/
 └── progress.md
+
+👉 [View Full Progress Log](progress.md)
